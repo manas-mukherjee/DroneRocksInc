@@ -13,7 +13,7 @@ buildscript {
 }
 
 task stage {
-  dependsOn build
+
 }
 
 apply plugin: 'java'
