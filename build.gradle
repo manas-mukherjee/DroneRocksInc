@@ -12,6 +12,10 @@ buildscript {
 	}
 }
 
+task stage {
+  dependsOn build
+}
+
 apply plugin: 'java'
 apply plugin: 'eclipse'
 apply plugin: 'spring-boot' 
