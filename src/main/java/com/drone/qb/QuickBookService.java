@@ -116,8 +116,8 @@ public class QuickBookService {
 		Config.setProperty(Config.BASE_URL_QBO,"https://sandbox-quickbooks.api.intuit.com/v3/company");
 
 		String appToken = "103dd5ceb2e91b493eb8410bc59e04f2302e";
-		String consumerKey = "qyprdpy0GBWqPca222HzeETKsg1QIF";
-		String consumerSecret = "N4cfj6VzUcpSkzEpYyNLI0vViNIL6hHrywwRp6Zi";
+		String consumerKey = "abcde1234567eETKsg1QIF";
+		String consumerSecret = "N4cfj6VzUcpSkzEpYyabcde1234567";
 		String accessToken = "qyprdCy5z42FaYE1Yn6wGn33Mj809zZcUVqbOtzfklFjWbpH";
 		String accessTokenSecret = "xWUfigZi1e7DFEboUj72Dig8LfMON5r2hWergjK2";
 		String realmID = "193514292411492";
